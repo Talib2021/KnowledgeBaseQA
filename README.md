@@ -1,5 +1,5 @@
 
-KnowledgeBase Q&A System: Question and Answer System Based on Google_gemini LLM and Langchain for E-learning company  
+KnowledgeBaseQA System: Question and Answer System Based on Google_gemini LLM and Langchain for E-learning company  
 
 This is an end to end LLM project based on Google_gemini and Langchain. We are building a Q&A system for an e-learning company. Any company who sells data related courses and bootcamps. They have thousands of learners who uses discord server or email to ask questions. This system will provide a streamlit based user interface for students where they can ask questions and get answers. 
 
@@ -21,7 +21,7 @@ This is an end to end LLM project based on Google_gemini and Langchain. We are b
 2.Navigate to the project directory:
 
 ```bash
-  cd KnowledgeBase Q&A System"
+  cd KnowledgeBaseQA"
 ```
 3. Install the required dependencies using pip:
 
